@@ -12,7 +12,7 @@ RegisterMyFonts is a single executable that can be placed anywhere on your compu
 
 You can **download the file** by going to [the releases section on GitHub](https://github.com/scottoffen/RegisterMyFonts/releases) and clicking on the RegisterMyFonts.exe file under the latest release.
 
-![Sample Page](../download.jpg "This is how you do it.")
+![Sample Page](RegisterMyFonts/download.jpg "This is how you do it.")
 
 ## Default Usage ##
 
