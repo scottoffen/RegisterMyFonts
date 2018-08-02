@@ -62,4 +62,4 @@ If things aren't working as expected, it can be helpful to turn on verbose mode.
 
 ## Free To Use ##
 
-RegisterMyFont was built specifically with educational institutions and students in mind. There is not charge for it's use. Contribution and suggestions are welcome!
+RegisterMyFont was built specifically with educational institutions and students in mind. There is no charge for it's use. Contributions and suggestions are welcome!
