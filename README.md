@@ -1,5 +1,18 @@
 # Register My Fonts
-A simple way to temporarily register fonts for use on a Windows computer that you don't have admin access on.
+A simple way to temporarily register fonts for use on a Windows computer, with or without admin access.
+
+There are two primary use cases for this tool:
+
+1. You want to use a font that isn't installed, but you don't have admin rights to install fonts.
+2. You want to use a font temporarily, but don't want to be bothered to uninstall the font later.
+
+## Download and Install ##
+
+RegisterMyFonts is a single executable that can be placed anywhere on your computer. There is no installer, just double-click the file, or call it from the command line. There is no uninstaller, just delete the file. Having multiple copies on your machine at the same time isn't an issue.
+
+You can **download the file** by going to [the releases section on GitHub](https://github.com/scottoffen/RegisterMyFonts/releases) and clicking on the RegisterMyFonts.exe file under the latest release.
+
+![Sample Page](../download.jpg "This is how you do it.")
 
 ## Default Usage ##
 
